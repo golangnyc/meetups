@@ -6,7 +6,7 @@ Topic(s):
 
 Event Date/Title:
 
-*If you are signing up to speak at already scheduled meetup, please provide the title of the meetup so that we can follow up with avialability and update the appropriate agenda.*
+*If you are signing up to speak at already scheduled meetup, please provide the title of the meetup so that we can follow up with availability and update the appropriate agenda.*
 
 ## For Organizers
 
@@ -27,6 +27,6 @@ Event Date/Title:
 - [ ] Add `scheduled` label to issue
 
 A couple weeks before the event
-    Work with the venue, and sponsor to place order for food and drinks, if applicable
+    Work with the venue host, and sponsor(s) to place order for food and drinks, if applicable
 
 
