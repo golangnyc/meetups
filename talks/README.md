@@ -9,6 +9,7 @@ This page contains a list of talks given by members of the Go Language NYC meetu
 
 ### July 23: Summer Kickoff, 2018
 * [How to modify Golang's default FileServer](serve_it.pdf) - [@crazcalm]
+  * [Related Blog Post](https://crazcalm.github.io/blog/post/custom_file_server/)
 * [Reduce, Reuse, Recycle](reduce_reuse_recycle.pdf) - [@jessecarl]
 
 
