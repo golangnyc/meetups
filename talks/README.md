@@ -1,6 +1,11 @@
 # Talks
 This page contains a list of talks given by members of the Go Language NYC meetup group. Users are free to make pull request to add new talks, but they should try to avoid deleting talks.
 
+### October 18: Go Meetup, 2018
+* [Engineer Centric End to End Testing](https://github.com/adrianwit/golang-e2e-testing/raw/master/golang-e2e.pptx) - [@adranwit]
+* [What's new in Go 1.11?](https://dmitri.shuralyov.com/talks/2018/whats-new-in-go1.11/go1.11.slide#1) - [@dmitshur]
+* [Building Serverless APIs with Go and AWS](https://drive.google.com/file/d/16ezg22TXQ4LXV7-rpjV-11f2gfZpLWY9/view) - [@acatighera]
+
 ### September 20: Go Meetup, 2018
 * [Dissecting Go Binaries](https://docs.google.com/presentation/d/1Q73ISYRUM0zdqw4dD4HGXJ7dgnv3OD4u9qdqfLLUAfY/edit#slide=id.p4) - [@grantseltzer]
   * [Related Blog Post](http://www.grant.pizza/dissecting-go-binaries/)
@@ -17,7 +22,10 @@ This page contains a list of talks given by members of the Go Language NYC meetu
 * [Reduce, Reuse, Recycle](reduce_reuse_recycle.pdf) - [@jessecarl]
 
 
+[@acatighera]: https://github.com/acatighera
+[@adranwit]: https://github.com/adranwit
 [@crazcalm]: https://github.com/crazcalm
+[@dmitshur]: https://github.com/dmitshur
 [@grantseltzer]: https://github.com/grantseltzer
 [@jessecarl]: https://github.com/jessecarl
 [@marwan-at-work]: https://github.com/marwan-at-work
