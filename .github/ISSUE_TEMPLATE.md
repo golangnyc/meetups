@@ -8,6 +8,12 @@ Event Date/Title:
 
 *If you are signing up to speak at already scheduled meetup, please provide the title of the meetup so that we can follow up with availability and update the appropriate agenda.*
 
+## For Speakers
+
+- [ ] Complete [Speaker Questionnaire](https://goo.gl/forms/Om4MAebK7TagwT3L2) (First-time speakers)
+- [ ] Add Speaker Bio
+- [ ] Add shareable link to talk
+
 ## For Organizers
 
 ### First Steps
